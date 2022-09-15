@@ -1,0 +1,66 @@
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\bin\Debug\net6.0\appsettings.Development.json
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\bin\Debug\net6.0\appsettings.json
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\bin\Debug\net6.0\Pokedex.staticwebassets.runtime.json
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\bin\Debug\net6.0\Pokedex.exe
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\bin\Debug\net6.0\Pokedex.deps.json
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\bin\Debug\net6.0\Pokedex.runtimeconfig.json
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\bin\Debug\net6.0\Pokedex.dll
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\bin\Debug\net6.0\Pokedex.pdb
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\obj\Debug\net6.0\Pokedex.csproj.AssemblyReference.cache
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\obj\Debug\net6.0\Pokedex.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\obj\Debug\net6.0\Pokedex.AssemblyInfoInputs.cache
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\obj\Debug\net6.0\Pokedex.AssemblyInfo.cs
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\obj\Debug\net6.0\Pokedex.csproj.CoreCompileInputs.cache
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\obj\Debug\net6.0\Pokedex.MvcApplicationPartsAssemblyInfo.cache
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\obj\Debug\net6.0\Pokedex.RazorAssemblyInfo.cache
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\obj\Debug\net6.0\Pokedex.RazorAssemblyInfo.cs
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\obj\Debug\net6.0\staticwebassets.build.json
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\obj\Debug\net6.0\staticwebassets.development.json
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\obj\Debug\net6.0\scopedcss\bundle\Pokedex.styles.css
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\obj\Debug\net6.0\scopedcss\projectbundle\Pokedex.bundle.scp.css
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\obj\Debug\net6.0\Pokedex.dll
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\obj\Debug\net6.0\refint\Pokedex.dll
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\obj\Debug\net6.0\Pokedex.pdb
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\obj\Debug\net6.0\Pokedex.genruntimeconfig.cache
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\obj\Debug\net6.0\ref\Pokedex.dll
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\bin\Debug\net6.0\MySqlConnector.dll
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+Q:\Professores\Gallo\2022\2º DS\PW\Turma B\Pokedex\obj\Debug\net6.0\Pokedex.csproj.CopyComplete
+C:\Users\etec\Desktop\Pokedex\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\etec\Desktop\Pokedex\bin\Debug\net6.0\appsettings.json
+C:\Users\etec\Desktop\Pokedex\bin\Debug\net6.0\Pokedex.staticwebassets.runtime.json
+C:\Users\etec\Desktop\Pokedex\bin\Debug\net6.0\Pokedex.exe
+C:\Users\etec\Desktop\Pokedex\bin\Debug\net6.0\Pokedex.deps.json
+C:\Users\etec\Desktop\Pokedex\bin\Debug\net6.0\Pokedex.runtimeconfig.json
+C:\Users\etec\Desktop\Pokedex\bin\Debug\net6.0\Pokedex.dll
+C:\Users\etec\Desktop\Pokedex\bin\Debug\net6.0\Pokedex.pdb
+C:\Users\etec\Desktop\Pokedex\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\etec\Desktop\Pokedex\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\etec\Desktop\Pokedex\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\etec\Desktop\Pokedex\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\etec\Desktop\Pokedex\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\etec\Desktop\Pokedex\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\etec\Desktop\Pokedex\obj\Debug\net6.0\Pokedex.csproj.AssemblyReference.cache
+C:\Users\etec\Desktop\Pokedex\obj\Debug\net6.0\Pokedex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etec\Desktop\Pokedex\obj\Debug\net6.0\Pokedex.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\Pokedex\obj\Debug\net6.0\Pokedex.AssemblyInfo.cs
+C:\Users\etec\Desktop\Pokedex\obj\Debug\net6.0\Pokedex.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Pokedex\obj\Debug\net6.0\Pokedex.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\etec\Desktop\Pokedex\obj\Debug\net6.0\Pokedex.RazorAssemblyInfo.cache
+C:\Users\etec\Desktop\Pokedex\obj\Debug\net6.0\Pokedex.RazorAssemblyInfo.cs
+C:\Users\etec\Desktop\Pokedex\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\etec\Desktop\Pokedex\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\etec\Desktop\Pokedex\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\etec\Desktop\Pokedex\obj\Debug\net6.0\scopedcss\bundle\Pokedex.styles.css
+C:\Users\etec\Desktop\Pokedex\obj\Debug\net6.0\scopedcss\projectbundle\Pokedex.bundle.scp.css
+C:\Users\etec\Desktop\Pokedex\obj\Debug\net6.0\Pokedex.csproj.CopyComplete
+C:\Users\etec\Desktop\Pokedex\obj\Debug\net6.0\Pokedex.dll
+C:\Users\etec\Desktop\Pokedex\obj\Debug\net6.0\refint\Pokedex.dll
+C:\Users\etec\Desktop\Pokedex\obj\Debug\net6.0\Pokedex.pdb
+C:\Users\etec\Desktop\Pokedex\obj\Debug\net6.0\Pokedex.genruntimeconfig.cache
+C:\Users\etec\Desktop\Pokedex\obj\Debug\net6.0\ref\Pokedex.dll
