@@ -53,8 +53,9 @@
 
 @section Scripts {
     <script>
-        function GetInfo(number){
-            window.location = '@Url.Action("Details", "Home")';
+        function GetInfo(number)
+        {
+            window.location = '@Url.Action("Details", "Home")' + '?Number=' + number;
         }
     </script>
 }

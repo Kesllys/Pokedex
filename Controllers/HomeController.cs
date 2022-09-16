@@ -4,6 +4,7 @@ using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using Pokedex.Data;
 using Pokedex.Models;
+using Pokedex.ViewModels;
 
 namespace Pokedex.Controllers;
 
@@ -26,7 +27,20 @@ public class HomeController : Controller
             .ThenInclude(t => t.Type).ToList();
         return View(pokemons);
     }
-
+    public IActionResult Details(uint Number)
+    {
+         var current = _context.Pokemons
+            .Include(p => p.Types).ThenInclude(t => t.Type)
+            .Include(p => p.Generation).Include(p => p.Gender)
+            .Where(p => p.Number == Number).SingleOrDefault();
+        var prior = _context.Pokemons
+            .OrderByDescending(p => p.Number)
+            .Where(p => p.Number < Number).FirstOrDefault();
+        var next = _context.Pokemons
+            .OrderBy(p => p.Number)
+            .Where(p => p.Number > Number).FirstOrDefault();
+        return View(pokemon);
+    }
     public IActionResult Privacy()
     {
         return View();
